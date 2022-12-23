@@ -1,0 +1,47 @@
+.s1
+{
+    position: relative;
+    top: -4500px;
+    left: 5px;
+
+}
+
+.s2
+{
+    position: relative;
+    top: -640px;
+    left: 300px;
+
+}
+
+
+.s3
+{
+    position: relative;
+    top: -1270px;
+    left: 600px;
+
+}
+
+
+.s4
+{
+    position: relative;
+    top: -1900px;
+    left: 900px;
+}
+
+ 
+.j
+{
+     position: relative;
+    top: -2230px;
+    left: 110px; 
+    height: 70px;
+    width: 220px;
+    color: black;
+    font-size: 17px;
+    background-color: darkgoldenrod;
+    border-radius: 30px;
+}
+

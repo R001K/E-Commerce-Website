@@ -1,0 +1,69 @@
+.P1
+{
+position: relative;
+left: 4px;
+top: -100px;
+
+}
+.b1
+{
+    color:black;
+    background-color:darkorange;
+    font-size: 15px;
+    position: relative;
+    border-radius: 10px;
+  
+}
+
+.P2
+{
+position: relative;
+left: 300px;
+top: -660px;
+    }
+    
+    
+.P3
+{
+position: relative;
+left: 620px;
+top: -1320px;
+    }
+
+    .P4
+{
+position: relative;
+left: 920px;
+top: -1970px;
+    }
+    .P5
+    {
+    position: relative;
+    left: 10px;
+    top: -2300px;
+  
+        }
+
+   .P6
+        {
+        position: relative;
+        left: 300px;
+        top: -2950px;
+      
+            }     
+
+            .P7
+            {
+            position: relative;
+            left: 600px;
+            top: -3620px;
+          
+                }     
+
+                .P8
+                {
+                    position: relative;
+                    left: 900px;
+                    top: -4290px;
+              
+                    }     

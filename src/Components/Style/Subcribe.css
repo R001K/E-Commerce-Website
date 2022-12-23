@@ -1,0 +1,47 @@
+.sub1
+{
+    position: relative;
+   left:10px;
+   top:-6400px;
+   width: 1140px;
+   height: 70px;
+   background-color: lightslategray;
+
+}
+.submit
+{
+    position: relative;
+    right: -800px;
+    top:-60px;
+    font-size: 20px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.text
+{
+    position: relative;
+right: -800px;
+    top:-60px;
+    font-size: 20px;
+}
+
+.navbar-brand
+{
+    font-size: 30px;
+}
+.news
+{
+    font-size: 12px;
+}
+
+.All
+
+{
+    position: relative;
+    top: 50px;
+    left: 310px;
+ font-size: 14px;
+ color: wheat;
+ background-color: black; width: 425px;
+}

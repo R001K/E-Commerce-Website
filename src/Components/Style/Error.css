@@ -1,0 +1,11 @@
+.error
+{
+    font-family:cursive;
+    font-size: 100px;
+    font-variant: 20px;
+width: 1000vh;
+height: 100vh;
+background-color: goldenrod;
+position: absolute;
+top:0px;
+}

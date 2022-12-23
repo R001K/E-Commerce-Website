@@ -1,0 +1,51 @@
+.div
+{
+    position: relative;
+    top:-230px;
+    left: 2px;
+    background-color: lightgray;
+    width: 1122px;
+    height: 650px;
+}
+.fashion
+{
+    position: relative;
+    top:2px;
+    left: 520px;
+}
+.div1
+{
+    position: relative;
+    top:-450px;
+    left: 60px;
+    font-size: 13px;
+
+}
+.div2
+{
+    position: relative;
+    top:-498px;
+    left: 20px;
+    font-size: 50px;
+
+}
+.div3
+{
+    position: relative;
+    top:-620px;
+    left: 60px;
+    font-size: 50px;
+
+}
+.button
+{
+    position: relative;
+    top:-660px;
+    left: 150px;
+    font-size: 18px;
+    border-radius: 0px;
+    color:white;
+    background-color: darksalmon;
+
+}
+

@@ -1,0 +1,32 @@
+.slide1
+{
+    position: relative;
+    top: 50px;
+    left: 370px;
+}
+
+
+.slidebutton
+{
+    position: relative;
+    top: 10px;
+    left: 550px;
+    font-size: 10px;
+}  
+
+
+
+.slide2
+{
+    position: relative;
+    top: 200px;
+    left: 45    0px;
+}
+
+.msg
+{
+    position: relative;
+    left: 560px;
+    top: 10px;
+    color: greenyellow;
+}
